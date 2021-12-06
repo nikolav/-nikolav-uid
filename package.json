@@ -1,6 +1,6 @@
 {
   "name": "nikolav-uid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Unique id generator",
   "main": "src/index.js",
   "scripts": {
